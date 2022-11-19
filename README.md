@@ -15,6 +15,8 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 - Join User in From channel (No need Admin Permission)
 - To channel id = @Username
 - For the above, You need to give a valid channel Id starting with '-100' in the var "To Channel_ID"
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4luYHr?referralCode=wT9f-i)
+
 
 ## USAGE
 ```
